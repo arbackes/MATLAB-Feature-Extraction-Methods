@@ -1,1 +1,1 @@
-# MATLAB-Feature-Extraction-Methods
+# MATLAB Feature Extraction Methods
